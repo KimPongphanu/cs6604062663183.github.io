@@ -1,0 +1,9 @@
+table,
+      th,
+      tr {
+        border: 2px solid black;
+      }
+
+      th:hover {
+        background-color: aqua;
+      }
